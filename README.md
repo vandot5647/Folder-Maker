@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d5770bfd-f655-44a1-91fd-70aae09536f2)
+
 Instalasi Library yang Diperlukan:
    pip install pandas
    pip install openpyxl
